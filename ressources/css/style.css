@@ -1,0 +1,44 @@
+/* General CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+p {
+  font-size: 14px;
+}
+
+/*---- Header ----*/
+
+.header {
+  background-image: url("../img/wow-header.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.header-overlay {
+  background-color: rgba(31, 31, 31, 0.75);
+}
+
+
+
+
+
+
+
+.header-iphone img {
+  width: 100%;
+
+}
