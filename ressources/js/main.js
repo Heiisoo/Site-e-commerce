@@ -171,3 +171,11 @@ $(document).ready(function(){
                 time: 2000
             });
         });
+
+ // Add animation
+
+ $(document).ready(function() {
+   'use strict';
+   new WOW().init();
+   
+ })
