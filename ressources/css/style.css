@@ -453,7 +453,7 @@ color: #333;
   background: rgba(0, 0, 0, 0.4);
 }
 
-.icon-counter {
+.counter-item svg{
   color: #129CF3;
   font-size: 60px;
 }
